@@ -1,0 +1,9 @@
+{{#user}
+
+Name: Karthik KS
+
+Skills: HTML, CSS, JS, React,Tailwind
+
+Email: karthikks260703@gmail.com
+
+{{/user}}
